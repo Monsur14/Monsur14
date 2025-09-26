@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Monsur
 - 👀 I’m interested in gaming, sports and coding cool stuff and expanding my knowledge in the software world
-- 🌱 I’m currently learning Java because of school lol but for fun html, css, python and javascript 
-- 📫 How to reach me through my email, monsur041@gmail.com
+- 🌱 I’m currently learning Java because of school lol but for fun html, css, python and javascript
+- 😜 I'm an Aspiring data analyst
+- 📫 How to reach me through my email, monsur0613@gmail.com
 - ⚡ Fun fact: Chickens are the living descendants of Dinosaurs. 
